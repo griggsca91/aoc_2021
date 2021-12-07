@@ -10,4 +10,10 @@ function strings.splitchars(s)
 	return result
 end
 
+function strings.spliton(s, delim)
+	local len = #s
+	local result = {}
+	
+end
+
 return strings
